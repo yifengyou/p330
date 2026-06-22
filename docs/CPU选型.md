@@ -2,6 +2,9 @@
 
 根据多方资料，**联想 ThinkStation P330 Tiny**（注意：正确名称为 **ThinkStation**，非 ThinkPad）基于 **Intel Q370 芯片组**，采用 **LGA 1151 (Socket H4)** 插槽，支持 **第8代（Coffee Lake）和第9代（Coffee Lake Refresh）Intel Core / Pentium / Celeron / Xeon E 处理器**，最大 TDP 支持 **95W**。
 
+![](./images/263465358701700.png)
+
+
 以下是兼容的处理器详细列表（按系列分类）：
 
 ---
